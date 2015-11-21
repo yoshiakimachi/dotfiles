@@ -37,6 +37,7 @@ alias tree="tree -N" # N: 文字化け対策
 alias gs='git status'
 alias gl='git log --graph'
 alias gd='git diff'
+alias ga='git add'
 alias gc='git commit'
 #hash -d hoge=/long/path/to/hogehoge
 
