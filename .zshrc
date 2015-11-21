@@ -39,6 +39,7 @@ alias gl='git log --graph'
 alias gd='git diff'
 alias ga='git add'
 alias gc='git commit'
+alias gp='git push'
 #hash -d hoge=/long/path/to/hogehoge
 
 # パス
